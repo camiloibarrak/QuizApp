@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "904326677881",
+    "firebase_url": "https://desafioautomotriz.firebaseio.com",
+    "project_id": "desafioautomotriz",
+    "storage_bucket": "desafioautomotriz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904326677881:android:e37ea75a1c341de0",
+        "android_client_info": {
+          "package_name": "com.example.camiloibarrakapta.kapta_desafio_automotriz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904326677881-v4qcaqj46ckqq3o0028oqute77mlbeb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camiloibarrakapta.kapta_desafio_automotriz",
+            "certificate_hash": "e72b80f78e7eaf6b6707e3056d64129b1d3654dd"
+          }
+        },
+        {
+          "client_id": "904326677881-0rasit1dbvu3hra1olbabum98o24ad3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCmyqtuTmx0X4n-MCcuIUzbhWXh7FhLe0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904326677881-0rasit1dbvu3hra1olbabum98o24ad3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
